@@ -368,7 +368,7 @@ void cmd_grace(void) {
     PrintLn(" | |   || |   |  | |   |  | | | | | |   |", COLOR_LIGHT_MAGENTA, COLOR_BLACK);
     PrintLn(" '---'  '---'   '---'   '---'   '---'   '---'", COLOR_LIGHT_MAGENTA, COLOR_BLACK);
     PrintLn("", COLOR_WHITE, COLOR_BLACK);
-    PrintLn("  For Grace — the reason this OS exists. ", COLOR_LIGHT_CYAN, COLOR_BLACK);
+    PrintLn("  For Grace - the reason this OS exists. ", COLOR_LIGHT_CYAN, COLOR_BLACK);
 }
 
 // ============================================
