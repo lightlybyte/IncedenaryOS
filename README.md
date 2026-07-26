@@ -6,7 +6,7 @@ An OS that is made by the user lightlybyte (@lightlybyt on TikTok), it is meant 
 
 ---
 
-## ✨ Features
+##  Features
 
 - ✅ Custom 32-bit kernel with Multiboot support
 - ✅ VGA text mode output (80x25)
@@ -25,7 +25,7 @@ An OS that is made by the user lightlybyte (@lightlybyt on TikTok), it is meant 
 
 ---
 
-## 🛠️ How to Build
+##  How to Build
 
 You build by running the file:
 
