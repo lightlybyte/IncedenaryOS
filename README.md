@@ -13,14 +13,7 @@ Whilst still being text mode GUI
 - Custom 32-bit kernel with Multiboot support
 - VGA text mode output (80x25)
 - PS/2 keyboard driver (polling-based)
-- Basic shell with commands:
-  - `help` — Show available commands
-  - `echo` / `print` — Print text
-  - `clear` — Clear the screen
-  - `reboot` — Reboot the system
-  - `hexdump` — Dump kernel memory
-  - `ls` — List files on disk
-  - `grace` — Display a special message
+- Basic Executive shell with an executable format
 - FAT12 filesystem detection (demo)
 - Scrolling support
 - Backspace and Enter key support in shell
